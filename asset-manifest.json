@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portfolio_Mohsen_Zouari/static/css/main.919d0411.css",
+    "main.js": "/portfolio_Mohsen_Zouari/static/js/main.1ca158e7.js",
+    "index.html": "/portfolio_Mohsen_Zouari/index.html",
+    "main.919d0411.css.map": "/portfolio_Mohsen_Zouari/static/css/main.919d0411.css.map",
+    "main.1ca158e7.js.map": "/portfolio_Mohsen_Zouari/static/js/main.1ca158e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.919d0411.css",
+    "static/js/main.1ca158e7.js"
+  ]
+}
